@@ -1,4 +1,4 @@
-# 🔇 YouTube & Twitch Ad Muter Extension
+# 🔇 Fujitsu
 
 This Chrome extension automatically mutes ads on YouTube and Twitch to provide a quieter and less disruptive viewing experience.
 
