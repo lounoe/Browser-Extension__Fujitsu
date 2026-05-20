@@ -31,7 +31,7 @@ Once the ad finishes, the audio is restored automatically.
 
 ### Chrome Web Store (recommended)
 
-Pending review, will update when ready.
+https://chromewebstore.google.com/detail/fujitsu/hecpkgiobgamlgcakgljmlhainigkido?utm_campaign=pmaxusroblox&utm_content=roblox3&utm_medium=ga&utm_source=bgads1
 
 ### Manual installation
 
